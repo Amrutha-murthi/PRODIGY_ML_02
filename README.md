@@ -6,7 +6,7 @@ This project involves the development of a K-means clustering algorithm to group
 
 ## Kaggle Dataset:
 
-The dataset used for this project can be obtained from Kaggle. It should contain relevant information about customers' purchase history, such as the types of products they purchase, the frequency of purchases, and other relevant features. Ensure the dataset is downloaded and organized appropriately.Dataset used is https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+The dataset used for this project can be obtained from Kaggle. It should contain relevant information about customers' purchase history, such as the types of products they purchase, the frequency of purchases, and other relevant features.Dataset used is https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 ## Model Used:
 
