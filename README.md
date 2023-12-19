@@ -22,17 +22,8 @@ git clone https://github.com/Amrutha-murthi/PRODIGY_ML_02.git
 
 
 
-## Usage:
 
-1. Navigate to the project directory:
-
-```bash
 cd Prodigy-Task2
 ```
 
-2. Run the K-means clustering script:
-
-```bash
-python kmeans_clustering.py
-```
 
